@@ -26,8 +26,12 @@ This project implements a heater control system using an ESP32 board and DHT22 s
 
 ## File Structure
 upliance-assignment/
-├── platformio.ini      
+
+├── platformio.ini    
+
 ├── src/
-│   └── main.cpp         
+  └── main.cpp         
+
 ├── design.pdf
+
 └── README.md
