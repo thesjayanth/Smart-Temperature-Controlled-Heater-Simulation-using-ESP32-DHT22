@@ -29,8 +29,7 @@ upliance-assignment/
 
 ├── platformio.ini    
 
-├── src/
-  └── main.cpp         
+├── src/main.cpp         
 
 ├── design.pdf
 
