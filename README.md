@@ -1,4 +1,4 @@
-# upliance.ai – Embedded Systems Intern Assignment
+# Embedded Systems Intern Assignment
 
 ## Project Overview
 This project implements a heater control system using an ESP32 board and DHT22 sensor. The system simulates heater behavior with state transitions and alerts using an LED and buzzer.
@@ -16,7 +16,7 @@ This project implements a heater control system using an ESP32 board and DHT22 s
   - STABILIZING
   - TARGET REACHED
   - OVERHEAT
-- Serial monitor logging for debugging
+ - Serial monitor logging for debugging
 
 ## Components Used
 - ESP32 Dev Board
